@@ -48,5 +48,8 @@
     "grunt-nuget": "^0.1.6",
     "grunt-shell": "~0.2.2",
     "jasmine-focused": "1.x"
+  },
+  "dependencies": {
+    "require-npm-4": "^1.0.1"
   }
 }
