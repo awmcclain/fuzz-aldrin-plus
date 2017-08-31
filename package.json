@@ -12,6 +12,7 @@
   "main": "./lib/fuzzaldrin.js",
   "scripts": {
     "prepublish": "grunt prepublish",
+    "prepare": "grunt",
     "test": "grunt test",
     "benchmark": "node_modules/.bin/coffee benchmark/benchmark.coffee"
   },
